@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1492097196 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\builders.cpp
+
+1492097196 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\controladoras.cpp
+
+1492097196 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\dominios.cpp
+	"dominios.h"
+
+1492097740 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\dominios.h
+	<stdexcept>
+
+1492513915 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\entidades.cpp
+	"dominios.h"
+
+1492514670 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"dominios.h"
+	"entidades.h"
+	"testes.h"
+	"interfaces.h"
+	"controladoras.h"
+	"stubs.h"
+	"builders.h"
+
+1492513933 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\entidades.h
+	<stdexcept>
+
+1492514324 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\testes.h
+	"dominios.h"
+
+1492097196 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\interfaces.h
+
+1492097196 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\controladoras.h
+
+1492097196 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\stubs.h
+
+1492097365 c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\builders.h
+
+1492097196 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\stubs.cpp
+
+1492514110 source:c:\users\fernando\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\material didático\exemplos_de_aula\testes.cpp
+	"testes.h"
+
