@@ -25,7 +25,7 @@ private:
   string  nome;
   
   const static unsigned LIMITE = 20;
-  const static string RANGE = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz "
+  const static string RANGE = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";
 
   void validar(string) throw (invalid_argument);
   
